@@ -435,7 +435,7 @@ export function LegalPage({ initialTab = 'privacy', onBackToHome, onTabChange }:
 
       {/* Legal Footer */}
       <footer className="legal-page-footer">
-        <p>© 2026 SAiX LABS. All rights reserved. Defending the modern web.</p>
+        <p>© 2026 SAiX LABS. All rights reserved.</p>
         <div className="legal-footer-switch">
           <button className={activeTab === 'privacy' ? 'active' : ''} onClick={() => handleSelectTab('privacy')}>
             Privacy Policy

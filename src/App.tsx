@@ -953,7 +953,7 @@ function App() {
         {/* Footer Bottom Legal & Status */}
         <div className="footer-bottom-bar section-shell">
           <div className="footer-bottom-content">
-            <p className="copyright-text">© 2026 SAiX LABS. All rights reserved. Defending the modern web.</p>
+            <p className="copyright-text">© 2026 SAiX LABS. All rights reserved.</p>
             <div className="footer-legal-links">
               <a
                 href="#/privacy"
