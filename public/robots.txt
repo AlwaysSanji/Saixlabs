@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saixlabs.in/sitemap.xml
